@@ -1,0 +1,14 @@
+{
+  "name": "express-deployment",
+  "version": "1.0.0",
+  "license": "ISC",
+  "author": "Ahmed Saleem Shaikh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
